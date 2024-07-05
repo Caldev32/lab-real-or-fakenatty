@@ -9,7 +9,7 @@ Meu projeto é baseados em IA´s que fazem a geração de imagens, e uma compara
 [StarryAI](https://www.craiyon.com/)  
 [NightCafé](https://creator.nightcafe.studio/studio?focus=create)  
 [Stable Diffusion](https://stablediffusionweb.com/pt#google_vignette)  
-[LeonardoAI]([https://www.bing.com/images/create](https://app.leonardo.ai/image-generation))  
+[LeonardoAI](https://app.leonardo.ai/image-generation)  
 
 ## 🧐 Processo de Criação
 Para fazer uma comparação justa, o prompt escolhido foi:
