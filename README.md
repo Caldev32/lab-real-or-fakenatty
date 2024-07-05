@@ -17,8 +17,8 @@ Para fazer uma comparação justa, o prompt escolhido foi:
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------|
 |Retrato hiper-realista de uma programadora que está fazendo o seu primeiro codigo|Hyper-realistic portrait of a programmer who is making her first code|
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Resultados  
+Os resultados da geração desse prompt estão na pasta [resultados]()
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
