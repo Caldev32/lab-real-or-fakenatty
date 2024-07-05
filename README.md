@@ -1,7 +1,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Meu projeto é baseados em IA´s que fazem a geração de imagens, e a comparação entre as mesmas.
+Meu projeto é baseados em IA´s que fazem a geração de imagens, e uma comparação no nivel de realismo entre as IA's
 
 ## 🤖 Tecnologias Utilizadas
 [DeepAI](https://deepai.org/)  
@@ -9,7 +9,7 @@ Meu projeto é baseados em IA´s que fazem a geração de imagens, e a comparaç
 [StarryAI](https://www.craiyon.com/)  
 [NightCafé](https://creator.nightcafe.studio/studio?focus=create)  
 [Stable Diffusion](https://stablediffusionweb.com/pt#google_vignette)  
-[Bing Criador de Imagens](https://www.bing.com/images/create)  
+[LeonardoAI]([https://www.bing.com/images/create](https://app.leonardo.ai/image-generation))  
 
 ## 🧐 Processo de Criação
 Para fazer uma comparação justa, o prompt escolhido foi:
