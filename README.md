@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Comparação entre os diferentes modelos de IA´s no mercado)
 
 ## 📒 Descrição
 Meu projeto é baseados em IA´s que fazem a geração de imagens, e uma comparação no nivel de realismo entre as IA's
@@ -21,5 +21,5 @@ Para fazer uma comparação justa, o prompt escolhido foi:
 Os resultados da geração desse prompt estão na pasta [resultados](Caldev32/lab-real-or-fakenatty/resultados)
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Ao analisarmos as imagens podemos perceper o quanto essas inteligencias artificiais evoluiram desde sua criação e popularização, porém ainda é possivel perceber que foi uma Inteligência Artificial que gerou as imagens.
