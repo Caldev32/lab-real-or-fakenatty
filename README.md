@@ -13,7 +13,8 @@ Meu projeto é baseados em IA´s que fazem a geração de imagens, e a comparaç
 
 ## 🧐 Processo de Criação
 Para fazer uma comparação justa, o prompt escolhido foi:
-|Português|Inglês|
+|                               Português                                         |                                 Inglês                              |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------|
 |Retrato hiper-realista de uma programadora que está fazendo o seu primeiro codigo|Hyper-realistic portrait of a programmer who is making her first code|
 
 ## 🚀 Resultados
