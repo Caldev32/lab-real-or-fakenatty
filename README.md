@@ -18,7 +18,8 @@ Para fazer uma comparação justa, o prompt escolhido foi:
 |Retrato hiper-realista de uma programadora que está fazendo o seu primeiro codigo|Hyper-realistic portrait of a programmer who is making her first code|
 
 ## 🚀 Resultados  
-Os resultados da geração desse prompt estão na pasta [resultados]()
+Os resultados da geração desse prompt estão na pasta [resultados](Caldev32/lab-real-or-fakenatty/resultados)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ao analisarmos as imagens podemos perceper o quanto essas inteligencias artificiais evoluiram desde sua criação e popularização, porém ainda é possivel perceber que foi uma Inteligência Artificial que gerou as imagens.
